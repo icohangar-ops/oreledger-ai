@@ -1,7 +1,7 @@
 # lablab Submission Copy — OreLedger AI (AMD Developer Hackathon: ACT III)
 Status: DRAFT — not submitted. Participation: Online. Track: Intelligent Industry.
 
-**Title (37 chars):** OreLedger AI — Assay & Invoice Auditor
+**Title (38 chars):** OreLedger AI — Assay & Invoice Auditor
 
 **Short description:** OreLedger pairs supplier invoices with independent assay certificates, recomputes payable metal deterministically, and routes only overbilling, grade-shortfall and duplicate exceptions to a human-signed audit ledger.
 
