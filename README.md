@@ -13,7 +13,7 @@ OreLedger helps a small critical-minerals buyer's CFO office stop paying for met
 ```bash
 python -m oreledger.demo        # CLI cash-at-risk desk
 python -m pytest tests/ -q      # test suite (use a venv: pip install -r requirements.txt)
-streamlit run app.py            # optional UI (requires streamlit)
+streamlit run streamlit_app.py  # Streamlit UI (Cloud entry point; app.py alias also works)
 python scripts/benchmark_rocm.py
 ```
 
