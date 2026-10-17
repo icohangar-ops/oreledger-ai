@@ -1,0 +1,7 @@
+{
+  "mode": "fixture",
+  "note": "Fixture/CPU timing of deterministic reconciliation only. No AMD GPU numbers claimed \u2014 run on AMD Developer Cloud with VLLM_BASE_URL set for endpoint results.",
+  "docs": 20,
+  "p50_ms": 0.0006,
+  "p95_ms": 0.0021
+}
